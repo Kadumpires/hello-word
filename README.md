@@ -11,4 +11,8 @@ alteraçao remota. inclui essa linha e alterei a linha 6
 
 Nova alteracao remota
 
+
 algteracao local antes de push
+
+alteracao remota antes de pull local
+
